@@ -16,12 +16,13 @@ Install the required dependencies using pip:
 
 ```bash
 python -m venv env
+-copy app.py inside the env
 ````
 ```bash
 env\Scripts\activate
 ````
 ```bash
-vd env
+cd env
 ````
 ```bash
 pip install Flask flask_cors PyPDF2 requests
