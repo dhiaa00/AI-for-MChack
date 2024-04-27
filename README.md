@@ -1,4 +1,3 @@
-````
 # PDF Facturisation and Workflow Extraction
 
 This repository contains a Flask application that provides endpoints to process PDF files for facturisation and extract key workflow elements. The application utilizes Flask for handling HTTP requests, PyPDF2 for PDF text extraction, and requests for interacting with other services.
