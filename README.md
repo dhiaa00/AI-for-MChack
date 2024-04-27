@@ -78,10 +78,3 @@ python app.py
 - **PyPDF2:** A library for reading and manipulating PDF files.
 - **requests:** A library for making HTTP requests.
 
-## Credits
-
-- This application was created by [Your Name].
-
-```
-
-```
