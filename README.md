@@ -15,6 +15,15 @@ This repository contains a Flask application that provides endpoints to process 
 Install the required dependencies using pip:
 
 ```bash
+python -m venv env
+````
+```bash
+env\Scripts\activate
+````
+```bash
+vd env
+````
+```bash
 pip install Flask flask_cors PyPDF2 requests
 ````
 
